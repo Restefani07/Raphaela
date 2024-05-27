@@ -1,2 +1,4 @@
 # Raphaela
-aluna 2A
+Aluna da escola Coronel Queiroz
+Cursando o segundo ano do ensino medio
+Cursando as plataformas Alura,Scrath,JavaScript, etc
